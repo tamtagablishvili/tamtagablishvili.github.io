@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: green;
+  /* Old browsers */
+  background-color: lightblue;
+  }
+
+/** Header styles **/
+.header {
+  background-image: url("pizza.jpg");
+  height: 600px;
+  background-position: center center;
+  font-family: Cooper black;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 900;
+  color: white; 
+}
+
+h3{
+	font-family: Raleway;
+	font-size: 30px;
+	overflow: auto;
+	opacity: 0.9; 
+}
+
+p {
+	font-family: Raleway;
+	font-size: 20px;
+	overflow: auto;
+	opacity: 0.9; 
+}
+
