@@ -19,23 +19,23 @@ body {
 }
 
 h3{
-	font-family: Comic sans ms;
-	font-size: 35px;
-	overflow: auto;
-	opacity: 0.9; 
-	text-align: center;
+font-family: Comic sans ms;
+font-size: 35px;
+overflow: auto;
+opacity: 0.9; 
+text-align: center;
 }
 
 p {
-	font-family: Raleway;
-	font-size: 20px;
-	overflow: auto;
-	opacity: 0.9; 
+font-family: Raleway;
+font-size: 20px;
+overflow: auto;
+opacity: 0.9; 
 }
 
 h3 {
-	font-family: gadugi;
-	font-size: 15px;
-	text-align: 30%;
+font-family: gadugi;
+font-size: 15px;
+text-align: 30%;
 }	
 	
